@@ -1,16 +1,33 @@
-### Hi there 👋
+#### Hello, I'm overinvest! 👋
+A novice programmer eager to develop my skills and make this world a better place.
 
-<!--
-**overinvest/overinvest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My Interests
+```css
+Software Development
+Algorithms and Data Structures
+Games and Entertainment
+Open Source Community
+```
 
-Here are some ideas to get you started:
+#### My Skills
+```cpp
+#include <iostream>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main() {
+    std::cout << "C++\n";
+    std::cout << "Git\n";
+    std::cout << "Algorithms\n";
+    std::cout << "Data Structures\n";
+    std::cout << "Problem Solving\n";
+    return 0;
+}
+```
+
+#### GitHub Statistics
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=overinvest&show_icons=true&theme=dark)
+
+> "Make it work, make it right, make it fast." - Kent Beck
+
+#### Connect with Me
+- [GitHub](https://github.com/overinvest)
+- [Telegram](https://t.me/ov3r1nv3st)
